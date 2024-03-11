@@ -1,0 +1,35 @@
+_repo: Prinzessin-Sidonie-Band-33_73037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacher, Julius
+    birthdate: 1810
+    deathdate: 1889
+    gutenberg_agent_id: '56490'
+    url: http://www.gutenberg.org/2009/agents/56490
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Julius_Bacher
+    - https://de.wikipedia.org/wiki/Julius_Bacher
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73037'
+language: de
+pgterms:marc904: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11016031-0
+pgterms:marc905: 20221120021427bacher
+pgterms:marc906: '1870'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aLeipzig :$bVerlag von Friedrich Fleischer, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 19th century'
+- !lcc 'PT'
+- GITenberg
+title: Prinzessin Sidonie (Band 3/3)
+url: http://www.gutenberg.org/ebooks/73037
