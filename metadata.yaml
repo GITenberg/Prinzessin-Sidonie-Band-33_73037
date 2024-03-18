@@ -1,5 +1,8 @@
 _repo: Prinzessin-Sidonie-Band-33_73037
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73037-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacher, Julius
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Julius_Bacher
     - https://de.wikipedia.org/wiki/Julius_Bacher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73037#Prinzessin-Sidonie-Band-33
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
